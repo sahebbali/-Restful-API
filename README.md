@@ -23,7 +23,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/product-management-api.git
+git clone https://github.com/sahebbali/-Restful-API
 Navigate to the project directory:
 bash
 Copy code
@@ -42,7 +42,7 @@ Start the server:
 bash
 Copy code
 node index.js
-The server will start at http://localhost:2476.
+The server will start at http://localhost:2477.
 
 API Endpoints
 
@@ -116,4 +116,4 @@ Authorization: Bearer <your_token>
 License
 This project is licensed under the MIT License.
 
-This should give a clear overview of the project structure and functionality. You can replace https://github.com/yourusername/product-management-api.git with your actual repository URL if you're hosting the code on GitHub or another platform.
+This should give a clear overview of the project structure and functionality. You can replace https://github.com/sahebbali/-Restful-API.git with your actual repository URL if you're hosting the code on GitHub or another platform.
